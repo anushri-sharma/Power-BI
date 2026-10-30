@@ -1,4 +1,4 @@
-# Power-BI-Data-Professional-Survey-
+# Power-BI-Data-Professional-
 
 
 ![Screenshot 2023-05-06 171039](https://user-images.githubusercontent.com/20989045/236621903-eb4658b4-6374-4cbf-a78a-883d6def032e.png)
